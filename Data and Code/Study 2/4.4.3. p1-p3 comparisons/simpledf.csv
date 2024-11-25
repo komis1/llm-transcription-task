@@ -1,0 +1,616 @@
+original_clean,llama_prompt_s,mistral_prompt_s,original,memorability_s
+this will be hard,I just found out I need to give a presentation in front of 500 people next week,Can you explain quantum mechanics to me in one sentence?,This will be hard.,high
+how much volume,how much audio can be stored on this new 8gb memory card?,The water tank in the basement is overflowing.,How much volume?,high
+have a good evening,"I'm heading out to watch the sunset tonight, isn't it supposed to be beautiful?",Have you finished the project?,Have a good evening.,high
+sounds good to me,Are we meeting at 5 pm for dinner?,Shall we meet at the usual place on Tuesday?,Sounds good to me.,high
+yes i am here actually,are you free to meet up today?,Do you live at 123 Main Street?,Yes I am here actually.,high
+will follow up today,Did you receive the meeting minutes?,Have you finished preparing the marketing strategy for our new product?,Will follow up today.,high
+thats a lot of dollars,"I just saw the price of my dream car and it's $120,000","I just sold my old car for $25,000.",That's a lot of dollars.,high
+are you going to join us for lunch,have you finalized the meeting time?,I've made reservations for six at the new Italian place downtown.,Are you going to join us for lunch?,high
+and how would i be going for work,I'm feeling pretty stressed about the project deadline,Have you checked the traffic on your usual commute route?,And how would I be going for work?,low
+further out  will fax you price target slide,can you provide me with the latest sales figures?,Have you seen the latest stock market trend for XYZ corporation?,Further out - will fax you price target slide.,low
+yes i am coming twice,Can you please come to the office?,I'll be at the party tonight around 8 pm.,Yes I am coming twice.,high
+if so he probably will have to pay back,has he borrowed money from you before?,John borrowed more money than he could repay.,If so he probably will have to pay back.,low
+was it a car wreck,I just got into a bad accident on the highway,I saw an accident at the corner of Elm and Oak.,Was it a car wreck?,high
+please forward to andy edison and stuart zisman,can you forward the meeting minutes to Andy Edison and Stuart Zisman?,Have you received the latest market analysis report?,Please forward to Andy Edison and Stuart Zisman.,low
+ok by me,can we watch the movie tonight?,Shall we meet at the usual place tomorrow?,OK by me.,high
+is she done yet,when will she finish the project?,Sarah finished baking the apple pie. Is she done yet?,Is she done yet?,high
+thanks for the quick turnaround,Can you please confirm the new project deadline?,I've finished the report ahead of schedule.,Thanks for the quick turnaround.,high
+how are you,I'm feeling unwell today,I've been thinking about our project deadline,How are you?,high
+i better go,the fire alarm just went off in the building,It's raining cats and dogs outside.,I better go.,high
+i think we are dong ok,Are we on the same page with our project timeline?,Your presentation seems well-prepared,I think we are dong OK.,low
+not just 1 to 2,do you ever feel like you're stuck in a rut?,How many books do you usually read in a week?,Not just 1 to 2.,high
+heres the talking points for anngtc,What are the key takeaways from our last meeting?,Have you prepared the presentation for ANNGTC's quarterly report?,Here's the talking points for ANNGTC.,low
+the filing concerns various scheduling and balancing rules,What are the key rules governing financial transactions?,Have you reviewed the new accounting regulations?,The filing concerns various scheduling and balancing rules.,low
+please send to hartsoe for comment,Can you please review the latest sales figures for our quarterly report?,I've noticed some inconsistencies in the marketing campaign data.,Please send to Hartsoe for comment.,low
+thus have nothing to destroy,What lies at the heart of all destruction?,Do you believe in the power of redemption?,Thus have nothing to destroy.,high
+wish me luck with linda,Will you be going on a date with Linda tonight?,I have an important interview with Linda tomorrow.,Wish me luck with Linda.,high
+yes i am playing,are you in the middle of playing a game?,Are you at the game right now?,"Yes, I am playing.",high
+can you call me at home,Can we discuss the details of my project over the phone?,I've found an important email from your boss,Can you call me at home?,high
+mostly a social call,Have you been busy lately?,"I was thinking about planning our next hike, which trail would you prefer?",Mostly a social call.,high
+please call tomorrow if possible,Can we discuss the meeting agenda for tomorrow?,I'd like to discuss the details of our upcoming project.,Please call tomorrow if possible.,high
+we are all fragile,have you ever felt like nothing's going right?,Do you think we can handle the pressures of modern life?,We are all fragile.,high
+depends on price,Can we go to the movies tonight?,How much does the latest iPhone model cost?,Depends on price.,high
+pretty impressive win,Did you see the thrilling game-winning goal in the football match yesterday?,You scored the winning goal in the championship match!,Pretty impressive win!,high
+i would like to attend if so,can you attend the annual corporate party on friday?,Will the seminar on machine learning be held next month?,I would like to attend if so.,high
+he played goalie almost the entire game,Did Ronaldo play well in the match?,Did Johnson make every save during the soccer match?,He played goalie almost the entire game.,high
+i can return earlier,can you return earlier today?,"Your flight is delayed, can you still make it to the meeting?",I can return earlier.,high
+i am trying again,can you please retry my password?,Can you solve the equation 2x + 3 = 7?,I am trying again.,high
+i am in 50m if you need me,"I'm running late for our meeting, can you meet me at the usual spot?",Can you help me find the address of the new library?,I am in 50M if you need me.,high
+would you mind taking the lead on this,Can you please help me with the agenda for today's meeting?,I've been having trouble understanding this report. Could you please explain it to me?,Would you mind taking the lead on this?,high
+ill see you thursday october 25,Are you free to meet on Thursday October 25?,Let's meet up to discuss the project proposal next week.,I'll see you Thursday October 25.,low
+what does held mean,The judge held the gavel tightly in her hand.,I've been holding this position for hours,"What does ""held"" mean?",high
+probably can handle monday pm,Do you think I'll have time to wrap up my project by Monday?,Can you help me with the project presentation next Monday afternoon?,Probably can handle Monday PM.,high
+i will bring john brindle,Are you bringing the necessary equipment for our meeting?,Have you forgotten to invite John Brindle to the meeting?,I will bring John Brindle.,high
+need you or john to step out,What's going on with John?,John mentioned he left his keys at your place.,Need you or John to step out.,high
+he would love anything about rocks,Why did you decide to become a geologist?,Have you seen the new geology exhibit at the museum?,He would love anything about rocks.,high
+of course not,Did you eat the last slice of pizza?,Are you lying to me right now?,Of course not,high
+what do you hear,Do you hear the music at the party?,The wind whispers through the trees.,What do you hear?,high
+203 561 9796 cell,where did you get your phone number?,Can you give me your cell phone number to set up our dinner plans?,203 561 9796- cell,low
+a bit behind on my emails,Did you receive my work email?,Have you finished processing that report?,A bit behind on my emails.,high
+then we can go to zainy brainy,where do you want to go for dinner?,Let's discuss some complex concepts. I believe the human brain is capable of incredible feats.,Then we can go to Zainy Brainy.,high
+hope your trip to florida was good,How was your trip to Florida?,I just got back from the Miami heat game.,Hope your trip to Florida was good.,high
+what is your issue sir,"My laptop is not turning on, what could be the issue?",The software you developed crashes every time I use it.,What is your issue sir?,high
+for your information,is the meeting still scheduled for tomorrow?,Have you checked the latest stock market news?,For your information.,high
+what a nice note,I just got the most amazing flowers from my secret admirer.,I appreciate the thought you put into choosing this gift for me.,What a nice note.,high
+i told gary you could make the call,Can I make the call to reschedule?,John asked if you could handle the project's budgeting.,I told Gary you could make the call.,high
+i think we should consider this request,Have you considered our financial situation before making that purchase?,Have you heard about the new company policy on employee benefits?,I think we should consider this request.,high
+whats his problem,I'm so frustrated with my boss's constant micromanaging!,I saw him arguing loudly in the park.,What's his problem?,high
+she called and wants to come over this am,Did Sarah invite herself to our party?,Mom asked me to pick up groceries on my way home.,She called and wants to come over this AM.,high
+there is now a meeting at 8pm as well,Are you still available to meet at 7pm today?,I need to schedule a call with John tomorrow.,There is now a meeting at 8PM as well.,high
+paige is gone,Paige is missing and I'm starting to get worried.,I saw her car missing from the driveway this morning.,Paige is gone.,high
+see you soon,Are we going to the beach tomorrow?,I'll pick you up at the airport on Friday.,See you soon!,high
+see you soon,Are we going to the beach tomorrow?,I'll pick you up at the airport on Friday.,See you soon!,high
+see you soon,Are we going to the beach tomorrow?,I'll pick you up at the airport on Friday.,See you soon!,high
+see you soon,Are we going to the beach tomorrow?,I'll pick you up at the airport on Friday.,See you soon!,high
+im on my way back there to do so,can you pick me up from the airport?,Can you please fix the printer at work?,I'm on my way back there to do so.,high
+bound to be some media flack on this,Did you hear about the latest celebrity scandal?,Rumors of a scandal at the city hall.,Bound to be some media flack on this.,high
+neal can you help with this,I'm having trouble with my car's GPS system. Can you explain why it keeps rerouting me?,"Neal, I've encountered an error message on my computer that reads: 'Access denied to file C:\Users\UserName\Documents\file.txt'. Can you help with this?","Neal, can you help with this?",high
+is kathy here,Where's our meeting scheduled today?,I see Kathy's car is parked outside her house.,Is Kathy here?,high
+get with dot,Did you just get the new phone?,Have you seen the new movie 'Interstellar'?,Get with Dot.,high
+probably need to check with hr group providing services,Can we provide out-of-office services to non-employees?,John's new project requires different benefits than his current ones.,Probably need to check with HR group providing services.,low
+check with haedicke,Can you help me check the inventory for tomorrow's delivery?,The stock price of Haedicke's preferred tech company has dropped significantly. What could be the reason?,Check with Haedicke,low
+it reads like she is in,the new James Bond movie looks like it's going to be a thrilling ride!,I just finished reading her email.,It reads like she is in.,high
+ds and ls,did you receive the package?,Have you finished reading 'To Kill a Mockingbird'?,DS and LS,high
+in a couple of weeks,When can I expect my new laptop to arrive?,When can I expect the delivery of my new laptop?,In a couple of weeks.,high
+has dynegy made a specific request,Dynegy has requested an urgent report on our team's progress.,Dynegy has proposed a new energy project. What's their specific plan?,Has Dynegy made a specific request?,high
+i am walking in now,are you already home?,"I see you're at the library, which section are you in now?",I am walking in now.,high
+they have capacity now,When will I be able to book the meeting room?,Can they handle another project right now?,They have capacity now.,high
+is this cash coming into tw,when do you expect the money transfer?,I just transferred money into your account,Is this cash coming into TW?,high
+a gift isnt necessary,I was thinking of celebrating our anniversary with a gift?,I'm thinking of getting you a birthday present.,A gift isn't necessary.,high
+tell her to get my expense report done,Can you remind me to follow up with Sarah regarding our company's financial reports?,The company's annual budget meeting is scheduled for next week.,Tell her to get my expense report done.,high
+i am out of town on business tonight,Are you free to meet up tonight?,I was wondering if you could help me out at the office tonight.,I am out of town on business tonight.,high
+we need a process to deal with this,how can we manage our company's data breaches?,The software we're using has crashed and we can't access our project files.,We need a process to deal with this.,high
+im waiting until she comes home,Are you looking forward to her coming home tonight?,Have you heard from Sarah about the party plans?,I'm waiting until she comes home.,high
+not even close,can you even compare your cooking skills to a professional chef?,Do you know the capital city of Mongolia?,Not even close.,high
+i have an am doctors appointment,When are you free to meet up?,Have you made any plans for tomorrow morning?,I have an AM doctor's appointment.,high
+see you next week,Can't wait for our meeting next week!,Our project deadline has been moved to next week.,See you next week.,high
+this is the neatest toy i have had,I just got the new robot dog and I think it's amazing!,Have you seen the new robotic vacuum cleaner in action?,This is the neatest toy I have had.,high
+see you later,Are you ready to meet up later?,I'll bring the books for our next meeting.,See you later.,high
+see you later,Are you ready to meet up later?,I'll bring the books for our next meeting.,See you later.,high
+chris foster is in,I just saw Chris Foster's latest presentation on AI innovation!,Have you heard the latest news about the team's new coach?,Chris Foster is in!,high
+i have none,can you spare some change?,Do you have any ripe bananas?,I have none.,high
+no but thanks,are you free to meet up for coffee tomorrow?,Do you have the latest novel by J.K. Rowling?,"No, but thanks.",high
+they are more efficiently pooled,How do you optimize the allocation of resources?,Have you organized the team's tasks effectively this week?,They are more efficiently pooled.,high
+i have other things to worry about,Can you really afford that new car?,Your constant procrastination is affecting our project timeline.,I have other things to worry about!,high
+well be in state college around july 4,Are you planning a trip soon?,Have you made travel plans for the upcoming holiday?,We'll be in State College around July 4.,low
+i may take the opportunity to run some errands,"I'll be free tomorrow afternoon, do you want to grab some groceries?",Do you want to grab some coffee before we start the project?,I may take the opportunity to run some errands.,high
+i didnt understand we were borrowing them,where did we leave the neighbours' tools?,Can I borrow your textbooks for the exam?,I didn't understand we were borrowing them.,high
+can we go to 150150 with foster,I'm thinking of getting tickets to the Foster's concert,Foster suggested we meet at his office at 3 PM. What do you think?,Can we go to 150/150 with Foster?,low
+thats another hole in the ny trip,Are we going to visit the Met in New York?,I found a deal on flights to New York,That's another hole in the NY trip.,low
+i want to thank everyone involved,thank you for the incredible effort put forth by everyone on our project,The team's hard work paid off with an impressive project launch.,I want to thank everyone involved.,high
+what period does the max rate assumption cover,What is the maximum rate for my credit card?,I'm considering applying for a mortgage with a high interest rate. What period does the max rate assumption cover?,What period does the max rate assumption cover?,low
+forward it in to steve for approval,can you confirm receipt of the new marketing report?,John suggested we use the new marketing strategy for the upcoming campaign.,Forward it in to Steve for approval.,low
+producers reacting to price management,How do companies deal with fluctuations in raw material prices?,Have you adjusted production levels to meet the new market demand?,Producers reacting to price management.,low
+just wanted to touch base,Is the meeting still scheduled for tomorrow?,Have we scheduled the team meeting for next week?,Just wanted to touch base.,high
+thanks again for your help,What's the best way to improve my English vocabulary?,I've found the solution to your problem.,Thanks again for your help.,high
+could you try ringing her,Have you spoken to Sarah about the project deadline?,I can't reach her on WhatsApp.,Could you try ringing her?,high
+you didnt answer me about driving tomorrow,can i borrow your car for tomorrow?,I'll pick you up at 6 PM tomorrow for our appointment.,You didn't answer me about driving tomorrow.,low
+do you need it today,can you lend me your laptop charger?,I need to buy some medicine for my cold,Do you need it today?,high
+i thought you were on 6,where are you right now?,I'll be at the library after work.,I thought you were on 6.,high
+will call later to explain,Can you explain the reason behind your recent absence?,I found an unusual mark on the wall in your office.,Will call later to explain.,high
+joel will handle this,Can you please escalate this technical issue to Joel?,There seems to be an issue with the finance reports,Joel will handle this.,high
+the contract is a bit complicated,can you clarify the terms of our agreement?,Have you fully understood the terms and conditions of the agreement?,The contract is a bit complicated.,high
+steve gilbert is working on this,who is responsible for resolving our technical issues?,Have you heard the latest news about the project's database issue?,Steve Gilbert is working on this.,high
+there will be some better news later today,"I didn't get the job, why did I get rejected?",I received some disappointing news from my doctor today.,There will be some better news later today,low
+what is going on,I just saw the most incredible sunset on our beach vacation!,I see smoke coming from your roof.,What is going on?,high
+make the move,Are you ready to take our relationship to the next level?,The market trends for next quarter seem unfavorable. What's your take?,Make the move.,high
+keep me posted,Did I win the competition yesterday?,Have you received the latest project report?,Keep me posted!,high
+there are several business issues outstanding,Have you reviewed the quarterly financial reports?,Have you finalized the marketing budget for next quarter?,There are several business issues outstanding.,high
+i will be thinking of you,I'll be missing you tomorrow when we're apart,I'm thinking of you in my prayers today,I will be thinking of you.,high
+who is this,who was the winner of the last football match?,Can you identify the author of 'To Kill a Mockingbird'?,Who is this?,high
+john this message concerns me,I'm worried about your recent health issues,Have you seen the latest news about John's project?,John this message concerns me.,high
+did we plan that,are we meeting at the usual spot tomorrow?,Let's meet at the usual place tonight,Did we plan that?,high
+let me know if i miss anything,can you send me the meeting agenda?,I've prepared a detailed project proposal for next quarter.,Let me know if I miss anything.,low
+call me to give me a heads up,"I'm heading to the meeting at 3 pm, are you ready?",I've found an unexpected error in the project.,Call me to give me a heads up.,high
+and leave my school alone,Are you going to vandalize my school's library again?,Your constant bullying at school has to stop.,And leave my school alone.,high
+i will be there,are you coming to the party tonight?,Will you meet me at the usual spot by the park entrance at 6 PM?,I will be there.,high
+we will have some good detail by january 7,Have you received the financial report we requested?,Have you received the latest market research report?,We will have some good detail by January 7.,high
+what is in the plan,I'm really excited about the upcoming conference,I've prepared a detailed project proposal for our team meeting next week.,What is in the plan?,high
+ill get you details,What are the timings for our team meeting on Friday?,Have you checked the latest stock prices for Apple Inc.?,I'll get you details.,low
+do you and george have a thing going,I think George might be hiding something from us,I saw you and George looking quite cozy at the party last night.,Do you and George have a thing going?,high
+if this has already been covered then i apologize,can you confirm the meeting time for tomorrow?,Have we discussed the possible causes of the recent system error?,"If this has already been covered, then I apologize.",low
+anything exciting going on today,I just got tickets to see my favorite band tonight!,I just got offered a new job opportunity,Anything exciting going on today?,high
+budget allocation from glisan has been postponed,Can you please confirm the meeting schedule for Q3 budget review?,Have you received the latest update on the funding from Glisan?,Budget allocation from Glisan has been postponed.,low
+will you and kb be around this afternoon,Are you free to grab lunch with me and KB today?,Let's plan a get-together at KB's place this weekend.,Will you and KB be around this afternoon?,high
+im looking forward to the long weekend,The long weekend is finally here!,I've planned a fun BBQ for the long weekend!,I'm looking forward to the long weekend!,low
+do we need to do anything here,are we on the same page about our project deadline?,The batteries in the smoke detectors are beeping.,Do we need to do anything here?,high
+could you resend,can you please send me your availability for the meeting?,Can you explain the intricacies of quantum physics?,Could you resend?,high
+900 am every second saturday with michelle,When are we meeting for our regular team gathering?,Let's plan our next hiking adventure.,9:00 AM every second Saturday with Michelle.,low
+i wont be home until 6,Can you pick me up from work at 5?,I hoped we could meet after work today,I won't be home until 6.,high
+because there is traffic,Why am I stuck in traffic?,Are you on your way to the meeting?,Because there is traffic.,high
+i am fine with this,can we finalize the plans for our weekend trip?,I'd like us to use the old marketing strategy again.,I am fine with this.,high
+jane what about this thursday for lunch,Do you have any plans for Thursday?,I'd like to suggest we meet up next week for catch-up.,"Jane, what about this Thursday for lunch?",high
+call me asap,Have you received the package yet?,The stock market has crashed. Which investments should I focus on now?,Call me ASAP.,high
+will 2pm et work for you,When are you free to meet?,Let's meet next week to discuss the project proposal.,Will 2PM ET work for you?,high
+what is happening to the stock price,The Dow Jones just plummeted 500 points today.,The tech sector is experiencing significant volatility today.,What is happening to the stock price?,high
+once you do you can never go back,Have you ever felt trapped in a situation?,Do you ever feel like making a drastic life change?,"Once you do, you can never go back.",high
+can you help with this one,can you recommend a good restaurant near me?,The instructions for assembling this new table are quite confusing.,Can you help with this one?,high
+are you going to apply,the job posting says the application deadline is soon,have you considered applying for the engineering scholarship?,Are you going to apply?,high
+good to know that the ferc cares,The Federal Energy Regulatory Commission has approved the construction of a new pipeline.,The FERC has announced new regulations for hydroelectric power plants.,Good to know that the FERC cares!,low
+i am almost speechless,Did you just propose to me in front of all our friends?,Did you read Hemingway's 'The Old Man and the Sea'?,I am almost speechless.,high
+ava please put me on the list,can you make it to the concert tonight?,I'd like to attend the upcoming workshop.,"Ava, please put me on the list.",high
+suggest you get facts before judging anyone,I've been judging people without knowing their true intentions.,you're wrong about that person,Suggest you get facts before judging anyone.,high
+i am now officially a blackberry addict,have you ever tried to quit using BBM?,Have you tried the new Blackberry messenger features?,I am now officially a Blackberry addict.,high
+have i mentioned how much i love houston traffic,I'm stuck in traffic on I-10,Have you seen the new art exhibit in town?,Have I mentioned how much I love Houston traffic?,high
+take what you can get,I'm running out of storage on my phone. Can I download more data?,"I found an old recipe book in the attic, do you want to take a look?",Take what you can get.,high
+should systems manage the migration,Are we ready to migrate our database infrastructure?,The EU is planning to move several IT systems to the cloud. Do you think we should outsource this task?,Should systems manage the migration?,high
+shelley making good use of my jury duty time,How do you make the most of your jury duty time?,Have you finished reading 'To Kill a Mockingbird'?,Shelley (making good use of my jury duty time),low
+need before board meeting,Are you prepared for our quarterly review?,Do we have the latest sales figures?,Need before board meeting.,high
+i think that is the right answer,who painted the ceiling of the sistine chapel?,What is the capital city of France?,I think that is the right answer.,high
+next time ask jim to call me,Can you remind me what's on your schedule for tomorrow?,I need your expert advice on this legal matter.,Next time ask Jim to call me.,high
+target customers munis wapa bpa,Why do companies prioritize customer segmentation?,Who are the primary utility companies in Pennsylvania?,"Target customers: Munis, Wapa, BPA.",low
+can i meet with you at 400,I need to discuss the project deadline with you,I need to discuss some important business matters with you.,Can I meet with you at 4:00?,low
+im glad you liked it,I just watched the new Marvel movie and I loved it!,I've finished reading your novel. What did you think of it?,I'm glad you liked it.,high
+this looks fine,Did you receive the new design for our company's logo?,Have you finished preparing the budget report for next quarter?,This looks fine.,high
+ive never worked with her,Have you seen the latest project report from Sarah?,Have you met the new project manager?,I've never worked with her.,high
+get with mary for format,What's the format for submitting my report?,Have you seen the new Mary Poppins movie yet?,Get with Mary for format.,high
+explain versus redo,why did the software update fail?,Have you finished encoding the new algorithm?,Explain versus redo.,high
+i hope you are feeling better,I've been feeling quite under the weather lately.,"I've been sick for days, do you think it's the flu?",I hope you are feeling better.,high
+im glad she likes her tree,Did Sarah finally get the new tree she was eyeing?,Sara showed her friend the garden they planted last week.,I'm glad she likes her tree.,high
+are you getting all the information you need,can you provide the details of my insurance policy?,I see you've ordered a new laptop.,Are you getting all the information you need?,high
+have a great trip,I've finally booked my flights for the weekend getaway!,I'm leaving for my vacation in Bali tomorrow.,Have a great trip.,high
+tried reaching you earlier,Did you get the meeting notes from yesterday?,Can we discuss the budget for next month?,Tried reaching you earlier.,high
+i would expect an answer asap,Are we on track to meet the deadline for the project?,Have you finished reviewing the financial reports for Q3?,I would expect an answer ASAP.,high
+i think your outlined measures sound fine,I've outlined some measures to reduce office noise and improve productivity. What do you think?,Have you considered implementing a two-step verification process for our company's email accounts?,I think your outlined measures sound fine.,high
+did you talk to ava this morning,I need to know what's going on with the new project timeline.,I saw her reading Ava's diary this morning,Did you talk to Ava this morning?,high
+we have lots of paper stuff,I'm stuck with all these forms to fill out,Do you have many documents or files to organize?,We have lots of paper stuff.,high
+we can discuss options early next week,can we discuss the project timeline early next week?,Shall we schedule a meeting to discuss the marketing strategy for Q3?,We can discuss options early next week.,high
+can you help,I'm experiencing trouble with my new smartphone. Can you help me troubleshoot?,"I've spilled coffee on my phone, can it be fixed?",Can you help?,high
+its not looking too good is it,the news about the company's financial situation is really bad,Stock prices are dropping dramatically today.,It's not looking too good is it?,high
+has anyone else heard anything,did you hear about the surprise announcement?,Have you heard the latest news about the company merger?,Has anyone else heard anything?,high
+i went to see a doctor,I've been feeling really unwell lately,Have you felt unwell lately?,I went to see a doctor.,low
+ava la was socal meeting,How was your trip to California?,Did you attend the marketing conference in San Francisco last week?,"Ava, LA was Socal meeting.",low
+is it over,it's finally over?,I see you've cancelled all our plans for the weekend.,Is it over?,high
+ill presume it is dead until i hear otherwise,Did you receive the package?,I found the fish you asked me to buy dead on arrival.,I'll presume it is dead until I hear otherwise.,low
+ill get you one,Can you get me the latest movie tickets?,Do you have a moment to pick up some fresh flowers for me?,I'll get you one.,high
+ok with me,can we meet up at 5 pm today?,Do you want to meet for lunch tomorrow at the new Italian place?,OK with me.,high
+i just tracked down steve,Did you find Steve's address book?,Have you found out where Steve has gone for his vacation?,I just tracked down Steve.,high
+what will happen to this project,The project deadline has been pushed back to next quarter,The budget for the project has been suddenly cut in half.,What will happen to this project?,high
+mark ellenberg is off for passover,Is Mark Ellenberg off for the holiday?,Have you heard when Mark Ellenberg will be back from his religious vacation?,Mark Ellenberg is off for Passover.,low
+i saw your 530 am message,did you forget to wake me up for my meeting?,Did you finish the report for tomorrow's meeting?,I saw your 5:30 AM message!,low
+i am snowed under and out of the office,Are you going to meet the deadline?,John hasn't responded to your email yet. Do you think we should follow up?,I am snowed under and out of the office.,high
+i plan to be in the office tomorrow,Will you be in the office tomorrow for our meeting?,Have you finalized the budget for next quarter?,I plan to be in the office tomorrow.,high
+i am unavailable for the 1pm meeting,Can you confirm your availability for the 1PM meeting on Friday?,I've scheduled a meeting for us at 1PM tomorrow. Is that convenient for you?,I am unavailable for the 1PM meeting.,low
+i am looking forward to the salad,I'm really excited for our lunch meeting tomorrow!,I'll make us a fresh salad for lunch today.,I am looking forward to the salad.,high
+were planning to go to west virginia for christmas,Have you guys decided on holiday plans yet?,Have you decided on your holiday destination for Christmas?,We're planning to go to West Virginia for Christmas.,low
+happy valentines day,are you planning on doing anything special for Valentine's Day?,I've received a beautiful red rose today,Happy Valentine's Day,low
+is that eott or the company that owns it,what's the difference between EOTC and EOTT?,I just read an article about a new tech startup in Silicon Valley.,Is that EOTT or the company that owns it?,high
+whats going on,I just got the worst news about my job today,I see smoke coming from your roof.,What's going on?,high
+you can talk to becky,I've been having some issues with my insurance policy,I need help with a problem related to gardening.,You can talk to Becky!,high
+daniel a muschar,Are you going to the concert tonight?,Have you read Daniel A. Muschar's latest research paper on NLP?,Daniel A. Muschar,high
+i talked to duran,How did you meet Duran?,Have you spoken with Duran about the upcoming project proposal?,I talked to Duran.,high
+i agreed terms with greg,Did you agree to the new terms and conditions?,Did you finish negotiating the deal with Greg?,I agreed terms with Greg.,high
+going well here,How's your job search going?,How's the progress on your project?,Going well here.,high
+i am at the lake,are you having fun?,Have you gone to the lake where we used to have picnics?,I am at the lake.,high
+i wish he would leave deerfield alone,Why did he move to Deerfield?,Susan mentioned she's moving to Boston.,I wish he would leave Deerfield alone.,high
+i told you silly,I'm running late because I forgot my keys again,"You forgot your umbrella today, didn't you?",I told you silly.,high
+wednesday is definitely a hot chocolate day,"it's been a chilly week, don't you think?",I'm craving for something warm and cozy today.,Wednesday is definitely a hot chocolate day.,high
+can you do the gallup contracts as well,Can you translate this contract from English to Spanish?,I've been asked to handle some new contracts.,Can you do the Gallup contracts as well?,high
+thanks for your concern,How are you feeling after the accident?,Have you heard about the recent earthquake in Japan?,Thanks for your concern.,high
+thursday works better for me,Can you make it to our meeting on Wednesday?,Can we meet next week to discuss the project proposal?,Thursday works better for me.,high
+joel ephross on issues reacquiring economic interestsswaps from jedi2whitewing,The latest economic report suggests that the stock market will fluctuate wildly.,Have you heard about the recent financial negotiations between Joel Ephross and Jedi2/Whitewing?,Joel Ephross on issues reacquiring economic interests/swaps from Jedi2/Whitewing.,low
+chase back office and their restart plan updates individually,Can you provide the restart plan update for our project?,Have you received the latest updates from Chase's back office regarding their restart plan?,Chase back office and their restart plan updates individually.,low
+i am all over it,did you finish the project?,Have you finished preparing the marketing strategy for our new product?,I am all over it.,high
+has your 4th quarter changed,Have you noticed any changes in the market trend recently?,I've just received my company's Q4 financial report.,Has your 4th quarter changed?,high
+9 am update meeting,when do we have the project review meeting scheduled for today?,Have you finalized the project timeline for next month?,9 AM update meeting.,low
+tomorrow is fine,When are you free to meet up tomorrow?,Shall we meet at the park next Tuesday?,Tomorrow is fine,low
+i guess thats additive to my stretch,I'm feeling exhausted from my morning workout,Have you finished reading the new marketing report?,I guess that's additive to my stretch?,low
+i think that we should enforce the agreement,have we been meeting these deadlines consistently?,The company's profits have significantly dropped recently.,I think that we should enforce the agreement.,low
+yes i did,did you just eat the last slice of pizza?,Did you finish the report on global warming?,Yes I did.,high
+i told you that you were a trouble maker,i know you're the one who started the fire at our school's library yesterday,I found your phone with an unknown number calling it repeatedly,I told you that you were a trouble maker!,low
+little value to the pipes,How do pipes affect the water pressure in the system?,Have you checked the water pressure in the old house?,Little value to the pipes.,high
+what is the mood,I'm feeling so down today,"The weather today is quite unpredictable, what is the mood?",What is the mood?,high
+i have some more data coming,can you confirm the accuracy of these numbers?,Have you found any new sales figures for Q3?,I have some more data coming.,high
+i thought so,did you really forget our anniversary?,Do you think the new project will require extensive coding?,I thought so.,high
+john millar to report,Can you report to the office immediately?,Have you finished reading John Millar's report?,John Millar to report.,low
+try to survive,Are you prepared for the apocalypse?,"The storm is coming, what should we do?",Try to survive!,low
+we are about to leave heaven,are we there yet?,The gates of Heaven have opened!,We are about to leave Heaven!,high
+i am on my way,are you coming to meet me at the party tonight?,I need you to bring the blue folder from work.,I am on my way.,high
+do we need to discuss,can we discuss the project's timeline?,I've received an unexpected bill from the utility company.,Do we need to discuss?,high
+just playing with you,are you busy today?,Do you believe in ghosts?,Just playing with you!,high
+i havent visited with stan lately,have you seen Stan's latest vacation pictures?,Have you seen John and Stan at the park recently?,I haven't visited with Stan lately.,high
+whats your phone number,can you come over and help me with my new smartphone?,I found an unknown number in my call history,What's your phone number?,high
+or if he comes down i10n then,Have you seen the traffic report for I-10?,John will be arriving from the north. Which highway should I suggest he takes?,Or if he comes down I-10N then?,low
+thanks for checking with me,Are we on schedule for the project deadline?,Have you finished the report on sales figures for Q3?,Thanks for checking with me.,high
+this is very sensitive,can you keep my deepest secret?,I've found some confidential files on your computer.,This is very sensitive.,high
+can you please review and get back to tim,can you please summarize the main points from the quarterly earnings report?,Tim made an error in the financial report for Q3.,Can you please review and get back to Tim?,high
+what is the stock price doing,The market is fluctuating wildly today,The NASDAQ index has reached an all-time high today.,What is the stock price doing?,high
+this financing shows up as minority interest,Can you explain the ownership structure of our company's recent investment?,Have you checked the company's latest financial statement?,This financing shows up as minority interest.,low
+thank you for your call,How do you like the new phone I just bought?,I've found an important document in your office. Can you please identify its content?,Thank you for your call.,high
+can we have them until we move,Are we keeping the boxes of books until we move?,We need to pack most of our belongings soon. Can I keep the antique vases?,Can we have them until we move?,high
+on the plane doors closing,Are you boarding the flight already?,Have you checked if the plane's doors are closing?,"On the plane, doors closing.",high
+what did mark say,Did Mark say something about the meeting?,Mark mentioned the details of his new project at the meeting today.,What did Mark say?,high
+lisa mellencamp on any issues regarding pending litigation,Are we in compliance with all regulatory requirements?,Have you heard about the recent court ruling on privacy laws?,Lisa Mellencamp on any issues regarding pending litigation.,low
+ill catch up with you tomorrow,"I'm so excited about the upcoming concert, how are you preparing?","Hey, can we discuss the project proposal tomorrow?",I'll catch up with you tomorrow.,high
+treasa knows the details,Is our meeting still on for tomorrow?,Have you heard from Treasa about the upcoming business conference?,Treasa knows the details.,high
+are you in today,"I'm running late for school today, why did the bus break down?",I'll be at the office if you need anything,Are you in today?,high
+have you done any deals yet,Have you received the sales reports yet?,"I've been in negotiations all day, how about you?",Have you done any deals yet?,high
+what are you up to with vince,I heard Vince is in trouble with the authorities again,I just received an email from Vince about our project plans.,What are you up to with Vince,low
+the meteor shower was incredible last night,Did you get to see the meteor shower last night?,Did you get a chance to see the night sky last night?,The meteor shower was incredible last night.,low
+let me know where you might be,where are you going for your birthday celebration?,"I've lost my way in this maze of streets, can you help?",Let me know where you might be.,low
+do you know anything,can you tell me the capital of Australia?,Have you heard about the latest Nobel Prize winner?,Do you know anything?,high
+ill let you know when i figure it out,can you figure out how to fix my computer?,I need help decoding this complex algorithm.,I'll let you know when I figure it out!,low
+would you mind doing the following,Can you please book a flight for me to London?,Can you please pass me the salt during dinner?,Would you mind doing the following?,high
+dallas and i am not coming back,are you coming back from Dallas?,The Cowboys just won the Super Bowl!,Dallas and I am not coming back!,low
+the socal meeting was very beneficial,How was your experience at the SoCal conference?,Have you gained valuable insights from the recent SoCal business conference?,The SoCal meeting was very beneficial.,low
+but i believe answer will be yes,are you free for dinner tonight?,Do you think I can pass the exam with just one more day of studying?,But I believe answer will be yes.,high
+tw of course,are we watching the game tonight?,Do you have the latest novel by J.K. Rowling?,TW of course.,high
+let it rip,are you ready to hit the road?,I'm about to make an important decision.,Let it rip.,high
+we just need a sitter,Are you free to watch the kids tonight?,I heard you're having a babysitter issue.,We just need a sitter.,high
+we must be consistent,Can we trust the data if it's not constantly verified?,I always order the same meal at this restaurant.,We must be consistent.,high
+did you tell steve,Did Steve tell you about the new project?,I saw him at the grocery store,Did you tell Steve?,high
+she has absolutely everything,Have you seen Sarah's new mansion?,Did you hear about Maria's new job and promotion?,She has absolutely everything.,high
+is this the conference rate,is this a domestic call?,The Hilton Hotel is offering special discounts for their upcoming conference.,Is this the conference rate?,high
+im not planning on doing anything this week,Are you planning on attending the music festival this weekend?,"Hey, what's your schedule looking like for the upcoming art exhibition?",I'm not planning on doing anything this week.,high
+she just came,who just walked in?,I see Susan's car in the driveway.,She just came.,high
+this is good i think,Did you try that new restaurant downtown?,Have you tried the new Italian restaurant downtown?,This is good I think.,high
+it is not surprising,the new employee's skills and experience are quite surprising.,Did you hear about the new research on artificial intelligence?,It is not surprising.,high
+let me know how i can help,I just got a new job and I'm feeling overwhelmed with work,I can't seem to figure out how to use this app.,Let me know how I can help.,high
+we can have wine and catch up,"haven't seen you in ages, how's life?",I've been thinking about old times and our shared memories.,We can have wine and catch up.,high
+dont they have some conflicts here,have you heard about the new movie releasing next week?,The stock prices of their rival companies are at an all-time low.,Don't they have some conflicts here?,high
+can you get me the calger letter done,Can I get the Caltech letter done by tomorrow?,I need to submit the report by tomorrow,Can you get me the Calger letter done?,low
+no obligation to pay,are you sure you can afford that dinner?,I'll send you the invoice for the project next week.,No obligation to pay.,high
+money wise that is,are you free to grab lunch today?,Have you checked the latest stock market trends?,Money wise that is.,high
+will let you know how call goes in morning,did you talk to the manager about my project?,I have an important business call in the morning.,Will let you know how call goes in morning.,low
+he is at 281 350 8441,where can I reach John?,I need to contact John urgently.,He is at 281 350 8441.,low
+trip was good i presume,just got back from our trip to Paris,I had an amazing experience at the new amusement park.,Trip was good I presume?,high
+what is wrong,I'm feeling really down today and I don't know why,I can't seem to access my account,What is wrong?,high
+were those the only 2 changes,can you please review the updated report and let me know what changes need to be made?,I saw you made some adjustments to the marketing strategy report,Were those the only 2 changes?,low
+we need to bring them along slowly,we need to discuss the company's marketing strategy,Let's introduce the new team members at the meeting today.,We need to bring them along slowly.,high
+just got this,Have you received the package yet?,Did you receive the latest company report?,Just got this.,high
+get with david lund,Why did David Lund just quit his job?,I need advice on my garden,Get with David Lund.,high
+weather is bad here,Is it raining outside?,I hope you're not planning to go out today,Weather is bad here.,high
+where are you,where are you meeting me for lunch?,I'm at the red traffic light near the city hall.,Where are you?,high
+in a meeting with your guys now,What's the current project status?,I need you to look into that urgent issue with the marketing team.,In a meeting with your guys now.,high
+how long can you guys shop,how long does it take to finish shopping?,Let's plan our weekend shopping trip to the mall.,How long can you guys shop?,high
+thanks good job,"I just finished that report, what do you think?",Your presentation was excellent.,Thanks good job.,high
+hopefully this can wait until monday,Can we discuss the Smith report before you leave on Friday?,I have an urgent work issue that I need to address now.,Hopefully this can wait until Monday.,high
+im fully recovered and back on pace,How was your weekend after being unwell?,"I've heard you've been under the weather lately, how are you feeling now?",I'm fully recovered and back on pace.,high
+i am not concerned with the brown money,Did the Brown family really fund the University of Oxford?,Have you heard about the recent financial scandal involving the Brown family?,I am not concerned with the Brown money.,high
+no employment claims for gas or power,why are my electricity and water bills so high?,Have you received the energy bill yet?,No employment claims for gas or power.,high
+on my way back,"I'm waiting at the airport, how much longer until you arrive?",Have you finished the report on the Q1 sales?,On my way back.,high
+we can work around these plans if you prefer,I was thinking we could change the meeting time to Friday,I'd like to change the meeting time due to unforeseen circumstances.,We can work around these plans if you prefer.,high
+i am freaking out,I just got the results of my medical test and it shows I have a rare disease,Have you seen the news about the plane crash?,I am freaking out!,high
+maybe you can leave early,"I'm running late for the meeting, can I make up some lost time?",Your flight has been cancelled.,Maybe you can leave early.,high
+what happened with brent price,"Brent Price's presentation was really confusing, didn't you find it awkward?",I just received an unexpected email from Brent Price's work account.,What happened with Brent Price?,low
+why do you ask,why did my best friend move to another city?,"I see you've changed your phone number, why do you ask?",Why do you ask?,high
+quick updates spoke with larry lawyer at egm,Have we settled the legal dispute yet?,Have you made any progress with the legal matter regarding the business merger?,Quick updates: spoke with Larry lawyer at EGM.,low
+i love you too,Will you be mine forever?,You look beautiful today,I love you too.,high
+mike are you aware of this,did you know that I lost my passport?,"Mike, have you read the latest research on neural machine translation?","Mike, are you aware of this?",high
+rosco was great,how was your weekend at Rosco's restaurant?,Did you enjoy the movie last night?,Rosco was great.,high
+she has a web address,Who designed the World Wide Web?,I found her contact details on the company's website.,She has a web address.,high
+you have a lot of holes in your plan,I think I've found the solution to my financial problems,I've calculated our company's budget for next year.,You have a lot of holes in your plan.,high
+did you not read my first email,Did you forget to send me the meeting details?,I saw John at the coffee shop this morning,Did you not read my first email?,high
+i was planning to attend,Will you be able to attend the meeting tomorrow?,Are you coming to the book club meeting on Sunday?,I was planning to attend.,high
+that would be great,Are you free for our meeting tomorrow?,Can we meet at the usual place tomorrow?,That would be great.,high
+thank you for your prompt reply,How was your day so far?,I've made an appointment for us next week.,Thank you for your prompt reply.,high
+can you wait until monday,I'm still waiting for the project report from you.,I need to discuss an important project with you,Can you wait until Monday?,high
+can you help me here,I'm having trouble with my internet connection. Can you help me here?,I've lost the key to the safe.,Can you help me here?,high
+i changed that in one prior draft,did you revise the chapter outline?,I noticed an inconsistency in the character development.,I changed that in one prior draft.,high
+probably will be working,are you available for our meeting tomorrow?,Do you have plans for the upcoming company event?,Probably will be working.,high
+what is the cost issue,can you order me the new iPhone 13?,"The price of the new iPhone model is quite high, don't you think?",What is the cost issue?,high
+i will resend to you,can you resend the meeting invitation to my new phone number?,Can you remind me of the code for our online banking system?,I will resend to you.,high
+please send me an email,Can you please send me the contract details by tomorrow?,I forgot the details of our upcoming project meeting.,Please send me an email.,high
+what a jerk,Why did you leave your dirty socks on the kitchen counter?,Why would you do something so thoughtless?,What a jerk.,high
+heres my work email kaymannenroncom,can you send me the quarterly earnings report?,I noticed you mentioned Enron in our last meeting. Could you please provide your work email?,Here's my work email (kay.mann@enron.com).,low
+is that enough for this week,can you prioritize the tasks for our project?,I have scheduled 10 meetings for you this week.,Is that enough for this week?,high
+probably wont have anything to tell late tonight,Do you think we'll have time to talk late tonight?,Have you heard the latest news about the political situation in Europe?,Probably won't have anything to tell late tonight.,high
+im in a meeting until noon,Are you free for lunch today?,Do you have time to discuss the project proposal this afternoon?,I'm in a meeting until noon.,high
+sorry but im hostage in meeting in 39c1,are you free to grab lunch today?,Have you finished preparing the report for the board meeting?,Sorry but I'm hostage in meeting in 39c1.,low
+please send it to both of us,can you please send the meeting minutes to both of us?,I found an important email with attachments for our project.,Please send it to both of us.,high
+issue on post bankruptcy price risk issue remains,Have you reviewed the post-bankruptcy financial reports?,Have you resolved the dispute regarding the post-bankruptcy pricing adjustments?,Issue on post bankruptcy price risk issue remains.,low
+we are on a plane coming back,Are we almost back in the country?,Have you landed yet?,We are on a plane coming back.,high
+finally i would delete the paragraph about lawyers,I'm worried about the lawsuit against me. I've been searching for advice on how to handle it.,The legal documents are lengthy and complicated.,"Finally, I would delete the paragraph about lawyers.",high
+also regarding the cash flow from canada,Have you received the financial reports from Canada yet?,The sales from our Canadian branch have significantly improved.,"Also, regarding the cash flow from Canada.",high
+i am sorry you had to come in,I'm so upset because I just found out my car was towed from the parking garage at work.,I found a key in your coat pocket,I am sorry you had to come in.,high
+ben could tell him about pompano,Can you recommend a good spot for lunch near the beach?,Have you heard about the best fish dish at the new restaurant?,Ben could tell him about Pompano.,high
+what enron entity owns the eott gp,What is the primary generator that produces electricity from natural gas in North America?,Do you know which Enron entity manages the EOTT investments?,What Enron entity owns the EOTT GP?,low
+i agree with morris,I think we should prioritize team-building activities.,The data analysis Morris presented at the meeting was quite compelling.,I agree with Morris,low
+i agree with morris,I think we should prioritize team-building activities.,The data analysis Morris presented at the meeting was quite compelling.,I agree with Morris,low
+let me know when you get this,Did you remember to pack my bag for the trip tomorrow?,I need you to bring the blue folder from the office.,Let me know when you get this.,high
+i wanted to go drinking with you,are you free tonight?,Do you fancy trying that new bar down the road?,I wanted to go drinking with you.,high
+no material impact,Did the company's recent decision have any material consequences on its financial reports?,Do you think the new policy will affect our sales figures significantly?,No material impact.,high
+we dont seem to have any positive income there,We are facing financial difficulties.,I checked our sales report for last month,We don't seem to have any positive income there.,high
+i will be back friday,Are you attending the team meeting on Friday?,Do you have plans for next week?,I will be back Friday.,high
+two days when,When will we meet again?,I'll be free to meet next week on Monday or Thursday.,Two days when?,high
+please make sure bob kelley is on the list,is Bob Kelley attending the conference?,Let's discuss the attendees for the marketing strategy meeting.,Please make sure Bob Kelley is on the list.,high
+its not working very well,can you hear me now?,Have you tried updating the app recently?,It's not working very well.,high
+i agree with jim,I think the meeting should be rescheduled for next week.,Jim suggested we should use his new marketing strategy.,I agree with Jim.,low
+let him pursue his claims with everyone else,Have you ever encountered someone with an unproven claim?,He insists that he is the rightful heir to the throne.,Let him pursue his claims with everyone else.,low
+if not can i call you,Are you free to meet up tomorrow?,"I've lost my way, can you give me directions?",If not can I call you?,high
+we are still in palacios having a quiet am,Where are we having lunch today?,Did you receive the email about our plans for this weekend?,"We are still in Palacios, having a quiet AM.",low
+no to both,am i going to the concert tonight?,Do you have the latest version of our project proposal?,No to both.,high
+i also just received my blackberry cool,"I just got my new smartphone, what do you think?",Have you received your new work phone yet?,"I also just received my Blackberry, cool.",low
+do you still need me to sign something,I need you to sign the new contract before 5pm today,I need you to bring your ID for verification at the bank.,Do you still need me to sign something?,high
+i will be checking up with lisa,How's Lisa doing after the surgery?,Have you spoken to Mark about the project's deadline?,I will be checking up with Lisa.,high
+i will likely not be available,can you make it to my birthday party tomorrow?,Do you have time for a quick call tonight?,I will likely not be available.,high
+im on 6,What's the best way to get there?,"Meet me at the usual spot, what number should I dial?",I'm on 6.,high
+ill meet you at bill sperrys office at 1230,Where are we meeting for the project discussion today?,Let's discuss the Bill Sperry project proposals at his office today.,I'll meet you at Bill Sperry's office at 12:30.,low
+got here early,are you ready to meet at the movie theater?,I hope you'll be on time for our meeting at the park,Got here early.,high
+how can we get these answers,What do I need to know about quantum entanglement?,The stock market has been volatile lately. Which indices have shown the greatest gains?,How can we get these answers?,high
+got your message,did you receive my package yet?,Have you received the package I sent?,Got your message.,high
+whats your proposal,Are you coming to the conference on Friday?,I suggest we meet at the park next Saturday.,What's your proposal?,high
+can we meet at 330,Are you free to meet today?,I'd like to discuss the project timeline.,Can we meet at 3:30?,high
+both of us are still here,are you still in the meeting?,Have you received my email about the meeting tomorrow?,Both of us are still here.,high
+did you send out a global message from me,did you receive the message i just sent?,I just noticed an unusual email activity from your account.,Did you send out a global message from me?,high
+not even in yet,are you even watching the game?,Have you started the new project at work?,Not even in yet.,high
+see you then,Can I see you at 5 pm today?,"I'll bring the chips for our movie night, right?",See you then,high
+see you then,Can I see you at 5 pm today?,"I'll bring the chips for our movie night, right?",See you then,high
+the rest is a byproduct of slapshot,can you explain the concept of entropy?,Have you analyzed the hockey team's power play strategies yet?,The rest is a byproduct of slapshot.,high
+any interest in chatting about a job at ubs,How's the job market in Zurich?,I heard UBS is hiring for new positions,Any interest in chatting about a job at UBS?,low
+1  number of questions on this,are we still on for the weekend?,How many mathematical problems do you have for me to solve?,1 - number of questions on this.,low
+how soon do you need it,can you send me the updated project report by tomorrow?,I need the report completed for the board meeting tomorrow.,How soon do you need it?,high
+how are things with you,I'm stuck in traffic and I'm going to be late for work,I've just received great news from my doctor,How are things with you?,high
+sent to 8,are you free to meet up at 7pm today?,Have you received the package from the courier?,Sent to 8,low
+message is getting through,is the message I sent earlier received?,Can you understand the instructions for assembling this bookshelf?,Message is getting through.,high
+john can you give konni a call,Did John's mother call today?,I heard Konni mentioned in the news today,"John, can you give Konni a call?",high
+i left a message,did you record the meeting?,Have you finished preparing the report for tomorrow's meeting?,I left a message.,high
+i want per mmbtu,Are you aware of the current energy market trends?,Have you received the order for 1000 cubic meters of natural gas?,I want per MMBTU.,high
+i guess this is ok if you are,can I crash at your place tonight?,Do you think we should go with the red or blue design for the website?,I guess this is OK if you are.,high
+i am not aware of any,is the new moon visible in the city tonight?,Have you received the latest company financial report?,I am not aware of any.,high
+perhaps there was a glitch,did the conference registration system fail again today?,The stock market numbers seem odd today.,Perhaps there was a glitch.,high
+what number should he call you on,I just got the new job and I'm excited to start working with you,"I've found an old phone number in my contacts, let's make sure it's still yours.",What number should he call you on?,high
+geez i sound pathetic,I've been feeling really down lately and I don't know why,"You seem really down today, what's bothering you?","Geez, I sound pathetic.",high
+we havent sold the us business as yet,are we prepared to list the US subsidiary?,Have you made any decisions about the US division's future?,We haven't sold the US business as yet.,low
+ava do we need to worry about this,have you seen the forecast for tonight?,The stock market has experienced a significant drop today.,"Ava, do we need to worry about this?",high
+are you feeling better,I just took my medication and I'm starting to feel a little better,I had a terrible headache this morning,Are you feeling better?,high
+you have a nice holiday too,I just returned from an amazing beach holiday!,I'm enjoying the sunny weather on my vacation in Bali,You have a nice holiday too.,high
+we need to talk about this month,why are my credit card payments overdue?,You haven't paid rent this month.,We need to talk about this month.,high
+how is it going,how's your flight to London going?,I've completed the project you assigned me last week,How is it going?,high
+what about jay,Did you know that the new employee is not getting along with the team?,Susan mentioned she saw Jay at the park yesterday.,What about Jay?,high
+i tried that to no avail,"I'm struggling to fix my computer, have you tried troubleshooting the BIOS?",Have you tried restarting your computer?,I tried that to no avail.,high
+thats not the behavior that i was looking for,I'm frustrated with the new employee's lack of communication skills,I promised to help you move next Saturday,That's not the behavior that I was looking for.,low
+i was trying to remember what bobby said,what did bobby say to us last weekend?,Did Bobby mention the details of his grandma's old house?,I was trying to remember what Bobby said.,high
+im quite interested as i told lyn,What are your plans for the weekend?,Have you heard about the latest research in quantum physics?,I'm quite interested as I told Lyn.,low
+how do you like the blackberry,"I'm considering buying a new smartphone, do you have any experience with Blackberry phones?",Have you tried the new Blackberry pie at the local bakery?,How do you like the Blackberry?,low
+we are waiting on the cold front,The weather forecast says we'll have a heatwave next week. Is it really going to be that hot?,Have you checked the weather forecast for the upcoming event?,We are waiting on the cold front.,high
+ken agreed yesterday,Did Ken agree to meet us at the conference?,Did Ken approve the marketing budget for next quarter?,Ken agreed yesterday.,high
+neil has been asking around,What's the latest rumour about Neil Armstrong?,Have you heard who won the Nobel Prize in Chemistry this year?,Neil has been asking around.,high
+we are having fun,Are we having the best day ever?,Let's make some popcorn and watch a movie.,We are having fun.,high
+tried to call but couldnt reach you,are you free to talk on sunday?,I'll call you during lunch.,Tried to call but couldn't reach you.,high
+not a problem,can you help me find the nearest pharmacy?,Can you bring the milk from the store on your way home?,Not a problem.,high
+call me tonight 7139736325,Are you free to grab dinner tonight?,"I've found an old number in my contacts, do you know who it belongs to?",Call me tonight 7139736325.,low
+maybe michael will go to quil tomorrow,Is Michael going to Quil tomorrow?,Do you think Quil's workshop might be held on Thursday instead of Wednesday?,Maybe Michael will go to Quil tomorrow.,low
+we sold the uk business to aep,Did we finally complete the AEP deal?,I heard rumors of a major business deal. What's the latest?,We sold the UK business to AEP.,low
+the master agreement references the trading business,What are the key terms for our international trade agreement?,Have you reviewed the terms of the new business contract?,The master agreement references the trading business.,low
+are we ready for this on monday,Have you finished preparing the presentation for Monday?,We have an important project deadline coming up on Monday.,Are we ready for this on Monday?,high
+as you know it isnt easy,Have you ever felt like giving up on your dreams?,You've been promoted to a manager role.,"As you know, it isn't easy.",low
+go to 16,where did you leave the car keys?,"I've lost my way in this maze of streets, can you help?",Go to 16.,high
+can you remember,where did we last meet?,What did we order for dinner last Tuesday?,Can you remember?,high
+i compliment you,"You've been looking at that project proposal for hours, haven't you?",Your new hairstyle looks amazing,I compliment you?,high
+are you available,can we meet up at 5pm today?,Can we discuss the details of the project meeting tomorrow?,Are you available?,high
+lets wait until monday,Can I get the new project details by Monday?,Have you received the important email from HR?,Let's wait until Monday.,high
+are you on the diet with me,I've been craving something sweet all day,I've decided to cut out sugar completely from my diet.,Are you on the diet with me?,high
+that would likely be an expensive option,Can we charter a private jet for our upcoming vacation?,I heard about a new phone model with diamond encrusted buttons.,That would likely be an expensive option.,high
+good for you,I just got accepted into my dream college!,You finally got promoted!,Good for you.,high
+i have forwarded to kelly,I just got the latest report from John.,Have you received the latest project proposal from HR?,I have forwarded to Kelly.,high
+board meeting running long,How's the board meeting going?,Have you finished preparing the financial reports for next quarter?,Board meeting running long.,high
+have a great day,I'm so excited for my summer vacation tomorrow!,I appreciate your help with my project,Have a great day!,high
+when do we review with el paso,We need to finalize our report before meeting with El Paso's team.,We need to finalize the plans for next quarter's business trips.,When do we review with El Paso?,high
+i just had my head in the clouds,Have you ever felt like you're stuck in neutral?,Have you seen the Northern Lights lately?,I just had my head in the clouds.,high
+would you have john send me a message,I think John's new car is really impressive,John mentioned he'd contact you about the project plan,Would you have John send me a message?,high
+how are things,How was your weekend?,I've just received great news from my doctor.,How are things?,high
+where are they hitting the books at,where are they studying for exams?,I've heard they're studying at the library,Where are they hitting the books at?,high
+your voice cheered me up,"I'm feeling down today, what's your favorite song to lift my mood?","You look down in the dumps today, care to talk about it?",Your voice cheered me up.,high
+meeting with alaska governor tony knowles on november 30th,Are you attending the upcoming conference?,Have you arranged any meetings with notable political figures in the near future?,Meeting with Alaska Governor Tony Knowles on November 30th.,low
+coal switching to ng and power guys stimulating demand,Will the US Energy Transition be driven by coal or natural gas?,Have you heard about the shift from coal to natural gas in the power sector?,Coal switching to NG and power guys stimulating demand.,low
+have a happy thanksgiving,What are your plans for Thanksgiving dinner?,Let's talk about your favorite Thanksgiving dish,Have a Happy Thanksgiving.,low
+we will keep you posted,When will the new product launch?,Have you made a decision about the new project yet?,We will keep you posted.,high
+do we have anyone in portland,we're looking for someone in the western states,Let's plan our next business trip.,Do we have anyone in Portland?,high
+no surprise there,the boss's favourite coffee shop has been closed due to health issues.,John always forgets important deadlines.,No surprise there.,high
+if not i can try information in omaha,Can you find the information I need in the Omaha records?,I need the latest stock prices for Omaha's leading tech companies.,"If not, I can try information in Omaha.",low
+it went well,Did you attend the meeting yesterday?,Did the interview go smoothly?,It went well.,high
+we are sitting in weils offices waiting to negotiate,Can we finalize the merger talks today?,Let's meet at Weil's offices to discuss the deal terms.,"We are sitting in Weil's offices, waiting to negotiate.",low
+hope you guys are doing fine,How was your trip to the beach yesterday?,I've heard the new restaurant down the street is excellent.,Hope you guys are doing fine.,high
+are you going to call,Are you going to call me back after the meeting?,Do you have the meeting details for tomorrow?,Are you going to call?,high
+did that happen,I just saw the funniest video of you trying to cook dinner!,I saw a shooting star last night,Did that happen?,high
+they have to go away and have a think,are you struggling with the new project?,Your constant negativity is bringing down the team morale.,They have to go away and have a think.,high
+i would be glad to participate,can you help me with my project?,I'd like to organize a charity event. Can you help?,I would be glad to participate.,high
+this is all so unreal,Have you ever woken up in a hospital bed with no memory of who you are?,Did you really win the lottery?,This is all so unreal.,high
+will give you more shortly,can you give me the exact date of your last appointment?,Have you finished analyzing the customer feedback reports?,Will give you more shortly.,high
+sorry for the delay,"I'm running late for our meeting, what's the hold up?",I'll be there in five minutes.,Sorry for the delay.,high
+had a great meeting,Did you get the proposal approved today?,I heard you had some important discussions at the marketing team's strategy session.,Had a great meeting.,high
+what level of detail do you need,What are the safety precautions to take while hiking in the Appalachian Mountains?,I'm considering buying a used car. Which model should I choose?,What level of detail do you need?,high
+send to me,can you send me the link to that article?,Can you remind me of the code to unlock my phone?,Send to me.,high
+i know trey and cam will be there,Have you confirmed the team's attendance at the party?,I heard Trey and Cam are organizing the event next week.,I know Trey and Cam will be there.,low
+please stay on top of the security issue,have you checked the latest security patch?,I received a suspicious email at work.,Please stay on top of the security issue.,high
+if possible id like to get amys opinion,Have you seen the new movie trailer?,Do you think we should invite Tom to the party?,"If possible, I'd like to get Amy's opinion.",low
+aig has agreed capital call not due until monday,When do I expect the call from AIG regarding the capital investment?,Have you received the latest financial update from AIG?,AIG has agreed capital call not due until Monday.,low
+have we assigned employees to netco,Have we finalized the project plan for NetCo?,Let's check our current project assignments.,Have we assigned employees to NetCo?,low
+am i getting a good package,I just received your birthday gift and I'm excited to give it to you!,I heard you're getting a subscription box,Am I getting a good package?,high
+we went to palacios to fish,Did we have a good time on our last fishing trip?,Have you been to Palacios recently for fishing?,We went to Palacios to fish.,low
+hope all is well,How was your meeting with the CEO?,I've been thinking about our project plans lately.,Hope all is well.,high
+i worked on the grade level promotion,are you done with the grade level project?,Have you been working on your department's annual budget?,I worked on the grade level promotion.,high
+the party at aa is roger willard,Who is the host for tonight's gathering?,"I heard you were organizing a party at AA, who is hosting it?",The party at AA is Roger Willard.,high
+i have a request,What's the meaning behind your latest tattoo?,Can you help me find the best Italian restaurant in town?,I have a request.,high
+better than most recently,Are you looking forward to the weekend?,Have you tried the new Italian restaurant downtown?,Better than most recently.,high
+youre the greatest,you've made my day so much brighter with your presence,You've been an amazing friend to me.,You're the greatest.,high
+what is this,I'm receiving strange signals from an unknown location on my radar,I've found an old map in the attic,What is this?,high
+travis is in charge,Did our boss assign the project to Travis?,Who will be leading the project team?,Travis is in charge.,high
+can you handle,I am overwhelmed with work and responsibilities,"You're an AI tool, can you understand complex literature?",Can you handle?,high
+will call when i leave,Are you almost here?,Do you know when the train usually arrives at the station?,Will call when I leave.,low
+through this account cash flows to corporate,can you transfer money to my account?,Have you received the company's latest financial report?,Through this account cash flows to corporate.,high
+fyi i saw ken caminiti at animal kingdom yesterday,Have you ever seen Ken Caminiti at Animal Kingdom?,Did you go to Animal Kingdom over the weekend?,FYI I saw Ken Caminiti at Animal Kingdom yesterday!,low
+i dont know that i will be back monday,Are you going to make it back to the office on Monday?,Do you have plans for next week?,I don't know that I will be back Monday.,low
+um no sir,Have you ever seen an elephant fly?,Do you understand the mathematical concept of differential calculus?,"Um, no sir.",high
+what do you think about tracy and jim,Tracy and Jim are having an affair. Do you think they'll get caught?,I just saw Tracy and Jim arguing at the park.,What do you think about Tracy and Jim?,high
+are you in a good mood,I'm so excited for the concert tonight!,I've received good news today,Are you in a good mood?,high
+can you help get this cleared up,can we settle the outstanding bill today?,The instructions for setting up the new software are unclear.,Can you help get this cleared up?,high
+i have a high level in my office,can you send me the latest sales report?,Do you have a important meeting in your office soon?,I have a high level in my office.,high
+i havent had a conversation on this since 1999,have you ever heard of the phrase 'I haven't had a conversation on this since 1999'?,Have we discussed the latest advancements in AI technology?,I haven't had a conversation on this since 1999.,high
+thanks i will,Can you remind me what's for dinner tonight?,Have you finished preparing the presentation for tomorrow's meeting?,Thanks I will.,high
+im working on a liquidity forecast,Can you explain the current financial situation?,Have you reviewed the latest cash flow report?,I'm working on a liquidity forecast.,high
+if we dont get it could be trouble,The project deadline is nearing and we're still working on the final draft.,The stock market has seen record highs recently.,"If we don't get it, could be trouble.",high
+did you set up my corporate account for me,Can you help me with my corporate finance?,I've completed the registration process for your new business account.,Did you set up my corporate account for me?,high
+are you being a baby,"I'm so frustrated with my phone bill, I just got hit with a huge fine for missing a payment.",I can't figure out how to use this app.,Are you being a baby?,high
+did you get this,I've been waiting for you at the coffee shop,I've prepared a detailed presentation for our meeting tomorrow,Did you get this?,high
+maybe traffic will be light on thursday,are you planning to drive to work on Thursday?,Do you think we can make it to the meeting on time if we leave at 4 pm?,Maybe traffic will be light on Thursday.,high
+mike is putting pressure on me,How's your day going with the project deadline approaching?,Mike asked us to meet at the office tomorrow at 9 am.,Mike is putting pressure on me.,high
+kind of like silent fireworks,Did you ever feel like you're just going through the motions?,Have you ever seen the rain forest at night?,Kind of like silent fireworks.,high
+can you get with mary and make sure,did you get the invitation to John's birthday party?,I need to discuss some important matters with Mary. Can you arrange a meeting?,Can you get with Mary and make sure?,high
+where are you dsm boy,I'm stuck in traffic on the highway,I see the sun setting over the lake.,Where are you DSM boy?,high
+she has the game tomorrow,What game does Sarah have scheduled for the weekend?,Do you know when Emily's soccer team plays next?,She has the game tomorrow.,high
+im on a plane,are you already at the airport?,Do you know which city I'll be arriving at soon?,I'm on a plane.,high
+florida is great,Have you ever thought about visiting Miami during winter?,Have you been to Florida recently and enjoyed it?,Florida is great.,high
+i sent it to her,did you send the file to your manager?,Did Bob receive the package from the post office?,I sent it to her.,high
+i will call,"I'll be late for our meeting, can we reschedule?",Have you found my lost keys?,I will call.,high
+remember blackberry doesnt work so well at home,i'm having trouble accessing the company's email server,I'm having trouble sending messages at home.,Remember blackberry doesn't work so well at home.,high
+please revise accordingly,can you revise the meeting schedule for tomorrow?,Your presentation needs improvement on the data analysis section.,Please revise accordingly.,high
+i think afraid of mass exodus,Are you worried about the impending economic crisis?,Have you heard about the potential economic crisis in neighboring countries?,I think afraid of mass exodus.,high
+on call with sp now,What's the status of our pending project?,Have you checked the latest financial news from S&P?,On call with S&P now.,high
+could you see where this stands,can you confirm the meeting schedule?,Have you finished the report on Q3 sales?,Could you see where this stands?,high
+sorry for the unfriendly greeting in the lobby,Why did you ignore me at the conference yesterday?,I noticed you looked unfriendly in the lobby today.,Sorry for the unfriendly greeting in the lobby.,high
+yes i like perfume,have you tried the new perfume by Chanel?,Have you tried the new rose scent perfume?,Yes I like perfume.,high
+im going to class,I'm running late for my 8am lecture,Do you have a class on physics today?,I'm going to class.,high
+see you on the third,When do you want to meet for dinner?,Let's meet for lunch tomorrow at the usual place.,See you on the third.,high
+did we get ours back,Have you seen our keys?,I found our lost wallet on the street,Did we get ours back?,high
+diane has info from littler on its proposed training,What are the details of Littler's proposed training for Diane?,Have you received any updates from Littler about their upcoming training sessions?,Diane has info from Littler on its proposed training.,low
+do you have a number for him,Can you please reach out to John for me?,I need to call my friend's father urgently.,Do you have a number for him?,high
+youre right  typo,are you free for dinner tonight?,I see you misspelled 'definitely' as 'deffinitely' in your last email.,You're right - typo,low
+what is up with ene,ENE is not responding to my calls,Have you heard the latest news about ENE's new project?,What is up with ENE?,high
+ill call you in the morning,How's your day going?,Do you have the latest project report?,I'll call you in the morning.,high
+can talk about 1 more if needed,Did you finish the project on Friday?,"I've heard great things about your new project, care to tell me more?",Can talk about 1 more if needed.,low
+are you sure,did i really just spend 100 dollars on lunch?,"You forgot your umbrella, didn't you?",Are you sure?,high
+go for the dollars,Is the company going to give us a bonus?,The stock market just hit an all-time high. What should we do?,Go for the dollars.,high
+i do wish i knew,have you ever felt completely lost in the vastness of space?,Do you know the combination to my safe?,I do wish I knew.,low
+3  true,have you ever felt completely lost in the city?,"The weather today is quite unpredictable, isn't it?",3 - true.,low
+she was leaving omaha for houston at 400,When did the flight leave?,Have you heard about the woman's flight plans?,She was leaving Omaha for Houston at 4:00.,low
+i didnt think we had,I've been thinking about our last vacation,Do you have the latest report from marketing?,I didn't think we had.,low
+sorry about that,I just spilled coffee all over my new shirt!,I've accidentally deleted your important email.,Sorry about that!,high
+i have a doctors appointment for 1100 on tuesday,Are you free on Tuesday?,Do you have any important appointments coming up?,I have a doctor's appointment for 11:00 on Tuesday.,low
+do you need to be there,I'm thinking of skipping the meeting today,I need to check the sales figures for next quarter.,Do you need to be there?,high
+hope you had a good weekend,How was your weekend getaway?,I finished reading an interesting article on quantum physics.,Hope you had a good weekend.,low
+is that ok,can I change the meeting time to 2pm?,Can we meet at the usual place tomorrow?,Is that OK?,high
+hows the share price,what's happening with the market today?,I just received great news about the company's earnings report,How's the share price?,high
+jan has a lot of detail,Jan's presentation is quite intricate.,I heard Jan prepared an intricate presentation on climate change.,Jan has a lot of detail.,high
+need to watch closely,I just saw the financial report and I'm concerned about the decline in profits.,Have you seen the new documentary on climate change?,Need to watch closely.,high
+do we know what we need,Are we on the right path?,Let's discuss our plan for the marketing campaign.,Do we know what we need?,high
+what do you think,Did you know that I won the lottery last night?,Do you believe the weather will improve tomorrow?,What do you think?,high
+does dan know about julia changing groups,I'm surprised to see Julia switching groups without discussing it with anyone,I heard that Julia joined a new club last week,Does Dan know about Julia changing groups?,high
+can you bring these to 49c1,Can you pick up some office supplies from the meeting room?,I'll need you to pick up some documents from my office before heading to the meeting.,Can you bring these to 49C1?,high
+i can fill you in on more details later,can you tell me about the upcoming conference?,Have you figured out the cause of the technical issue at work?,I can fill you in on more details later.,high
+she is taking over global finance legal,Did you know that the world's finance systems are in chaos?,Rumors have it that a new financial regulatory body is being formed.,She is taking over Global Finance Legal.,low
+just sitting around,are you still watching Netflix?,"Hey, do you want to come over and help me with this project?",Just sitting around.,high
+also it appears no payment is required tomorrow,do i need to bring my wallet for the free trial?,I see your car needs a repair.,Also it appears no payment is required tomorrow.,high
+im in 49c1,are we meeting at the beach today?,"Meet me at the library, which section are you in?",I'm in 49C1.,high
+i will need to have my memory refreshed,where did we go on our last vacation?,Have you read the latest novel by J.K. Rowling?,I will need to have my memory refreshed.,high
+are you there,Are you sure about the meeting today?,Can you help me find the recipe for your famous chocolate cake?,Are you there?,high
+i hope he is having a fantastic time,did you hear that John's getting married?,John just boarded his dream vacation flight to Bali.,I hope he is having a fantastic time.,high
+please send me an email to let me know,I am still waiting for your confirmation on the project deadline.,I need to confirm some details for the project meeting next week.,Please send me an email to let me know.,high
+im out of office till wednesday,can you help me with the Johnson report?,I need to discuss the project proposal with you urgently.,I'm out of office till Wednesday.,low
+working on it,can you finish the report by tomorrow?,Can you find out why the project is delayed?,Working on it,low
+danny i recommended on monday we cancel it,Did we confirm the meeting for Friday?,I'm sorry to say that I think the project will incur unexpected costs.,Danny I recommended on Monday we cancel it.,low
+if so whitt is done,we need to finalize the project by tomorrow,Have you finished preparing the presentation for tomorrow's meeting?,If so Whitt is done?,high
+it was very nice,I just got back from the conference and I had an amazing time!,Have you tried the new Italian restaurant downtown?,It was very nice.,high
+if so what was it,what was the best book you read last year?,I saw an interesting article about artificial intelligence.,If so what was it?,high
+im in stans office,can I get an appointment with Stan?,Have you found the report I left on Stan's desk?,I'm in Stan's office.,high
+hey tk how are you doing,I'm feeling so excited for my trip tomorrow!,I've been struggling with my project lately,"Hey TK, how are you doing?",high
+in isolation all of these things are trivial,Is the meaning of life really just to be happy?,The stock market prices have reached an all-time high.,"In isolation, all of these things are trivial.",low
+the troops just walked in,Have the enemy forces been sighted?,I see the enemy troops approaching our position.,The troops just walked in.,high
+dont forget the wood,I'm planning a camping trip for the weekend,Let's make a campfire tonight,Don't forget the wood.,high
+im available by cell when you get data points,can you receive data packets remotely?,I need your expert opinion on these financial reports.,I'm available by cell when you get data points.,high
+but we should pay them the 4500,The company has sent us the 4500 invoice for services rendered.,The restaurant we booked for dinner has unexpectedly increased their prices.,But we should pay them the 4500.,high
+this seems fine to me,can we reschedule the meeting for tomorrow?,The new marketing strategy proposal looks good to me.,This seems fine to me.,high
+man i dont want to get sick again,I think I'm coming down with something and I don't want to get infected again,Have you been feeling ill lately?,Man I don't want to get sick again.,low
+seemed fine when i picked him up,How was the dog's behavior during your morning walk?,I heard the dog whining before I left the house this morning.,Seemed fine when I picked him up.,low
+are you back in town,"I just landed in New York, I'm exhausted from the long flight",I saw your car at the airport today.,Are you back in town?,high
+check and find out form,can you confirm your availability for the meeting tomorrow?,The stock price of Apple Inc. has been dropping lately. What could be the reason?,Check and find out form?,high
+i still believe a september 30 closing is unrealistic,Can we realistically expect to close the deal by September?,"Given the current market conditions and ongoing negotiations, do you still think we can close the deal by September 30?",I still believe a September 30 closing is unrealistic.,high
+this is the crew,Is that the crew you're referring to in your presentation?,Who is on the helicopter team?,This is the crew.,high
+what a pain,I just spilled coffee all over my shirt,I spilled coffee on my laptop,What a pain.,high
+i think in this case specific is better,What specific details do you think the manager will ask me during my performance review?,Have you tried the new sushi place downtown?,I think in this case specific is better.,high
+pressure to finish my review,"I'm struggling to meet my deadline for the project review, what do you think I should focus on?",Your deadline for the project report is coming up soon.,Pressure to finish my review!,high
+i like it,I'm thinking of going to the beach tomorrow.,Have you read F. Scott Fitzgerald's The Great Gatsby?,I like it.,high
+san francisco was interconnect meeting,What did you learn from the Interconnect meeting?,Did you attend the tech conference in California last week?,San Francisco was Interconnect meeting.,low
+about 15 minutes,I'll be arriving at the airport in,How long will it take you to get there?,About 15 minutes.,high
+i have 30 minutes then,Are you available to meet today?,Can we discuss the presentation details for next week?,I have 30 minutes then.,high
+mikey is invited also,are you going to Mike's birthday party on Saturday?,May I know who is invited to the party apart from Sarah and Tom?,Mikey is invited also.,high
+what are the units,What is the average speed of a commercial airliner?,I'm converting 30 degrees Celsius to Fahrenheit.,What are the units?,high
+ill ask he just came by,did he just get here?,Have you seen John at the office today?,"I'll ask, he just came by.",low
+see you tomorrow,Are you free tomorrow?,I'll bring the reports to our meeting tomorrow.,See you tomorrow.,high
+did you mean oxley,I'm going to Oxley College tomorrow for my interview,I need to meet you at the station near Oxbridge Road.,Did you mean Oxley?,high
+who should i contact regarding severance,I've been laid off due to company restructuring.,I've been let go from my job and need to know about my severance package.,Who should I contact regarding severance?,low
+check with vince strohmeyer,Can you confirm the meeting with Vince Strohmeyer for tomorrow?,I need the latest report on sales figures for Q3.,Check with Vince Strohmeyer.,low
+i would agree,the company's decision to downsize has affected our team's morale,Do you think the weather will be nice tomorrow?,I would agree.,high
+im taking wednesday off,Do you have any plans for our team meeting on Wednesday?,Do you want to meet next week for brainstorming sessions?,I'm taking Wednesday off.,low
+i can get them,can you pick up some groceries for me?,Do you have any fresh tomatoes at the market?,I can get them.,high
+i dont know whowhat got everything stirred up today,"something's really bothering you, isn't it?",The boss called an unexpected meeting today.,I don't know who/what got everything stirred up today.,high
+i am monitoring email,have you received my email?,Have you received the important email from HR?,I am monitoring email.,high
+i am staying at the w hotel,What's your accommodation like in New York?,Have you decided on a place to stay in the city?,I am staying at the W Hotel.,low
+will it be delivered,Can I track my package?,"The delivery truck is here, do you want me to bring in the package?",Will it be delivered?,high
+still tied up,"I'm waiting for an update on the meeting, have you heard anything?",Have you finished the project?,Still tied up.,high
+just my thoughts,Did I really forget my anniversary?,Have you seen the latest movie about artificial intelligence?,Just my thoughts.,high
+then they should go home,why did John get into trouble?,"It's raining heavily outside, they should consider staying indoors.",Then they should go home.,high
+make sure they are current,can you confirm the validity of these software updates?,Have they paid their bills on time this month?,Make sure they are current.,high
+was wondering if you and natalie connected,Did Natalie say she'd meet us at 7?,I saw Natalie at the park with a man yesterday,Was wondering if you and Natalie connected?,high
+not at this time,are you available for lunch today?,Do you have some free time to help me with a project?,Not at this time.,high
+do we have new york sorted out,Are our travel plans to New York still on track?,I've booked our flights to New York next week.,Do we have New York sorted out?,high
+im on the 6th floor of the new building,Where are you now?,Have you reached the new IT department yet?,I'm on the 6th floor of the new building.,low
+ill give you my handwritten notes,can you provide me with your lecture notes?,Have you taken thorough notes during our last team meeting?,I'll give you my handwritten notes.,low
+im still here,are you still waiting for me?,Do you remember our last conversation about the novel we read in book club?,I'm still here.,high
+he doesnt want to give the trading positions,Can you confirm the trading positions with John?,Have you asked him for his trading strategy?,He doesn't want to give the trading positions.,high
+we will get you a copy,can you send me a copy of the contract?,I need a copy of the contract for next week's meeting.,We will get you a copy.,high
+you are welcome in palacios this weekend of course,I've got an invitation to Palacios this weekend. Should I take it?,I'd love to visit Palacios over the weekend. Can I come?,"You are welcome in Palacios this weekend, of course.",low
+please set something up,Can you set up the conference call for today?,Let's plan a dinner for next week.,Please set something up.,high
+no at least not to my knowledge,do you know the password to my old laptop?,Have you heard about the new scientific discovery in quantum physics?,"No, at least not to my knowledge.",low
+stop working weekends again,Why did you start working on weekends?,Can I count on you to work this weekend?,Stop working weekends again.,high
+we had a vp prc meeting thursday,Did the VP approve our proposal last week?,Did you discuss business strategies with the VP during last week's PRC meeting?,We had a VP PRC meeting Thursday.,low
+do you have a number for steve,Did you know that Steve will be joining us for the meeting tomorrow?,I need to contact Steve urgently.,Do you have a number for Steve?,low
+here is the message,what's the best way to reach you?,Have you received the package from New York?,Here is the message.,high
+we dont want to look bad to dyn,Are we going to make it to the meeting on time?,Our team's presentation at Dyn's conference is coming up. What should we wear?,We don't want to look bad to Dyn.,low
+call me at 8328652445,Can I reach you on your phone?,I've found some important information regarding our project.,Call me at 832.865.2445.,low
+talk to you soon,When are you free to meet up?,Have we scheduled our next meeting?,Talk to you soon.,high
+it may be an hour,Are we going to make the meeting on time?,Have you finished preparing the report for tomorrow's meeting?,It may be an hour.,high
+jim please confirm to vince you are happy,are you looking forward to the party tonight?,The new project's timeline seems quite tight. Are we all in agreement with the deadlines?,Jim please confirm to Vince you are happy.,high
+were on the way,"We're running late for our flight, are we going to make it?","We're meeting at the usual place today, right?",We're on the way.,high
+hope your week is going well,Did you have a relaxing weekend?,I've been struggling with my project deadline.,Hope your week is going well.,high
+is this the only time available,Can I meet you at 3 pm today?,Can we meet next Tuesday at 3 PM?,Is this the only time available?,high
+we just pulled schedules from the web,can you send me my flight schedule?,Have you set a meeting time yet?,We just pulled schedules from the web.,high
+did you get the message to call mary kay,Did you confirm the meeting with Mary Kay for tomorrow?,I found your lost wallet on the bus,Did you get the message to call Mary Kay?,high
+even michael was impressed,How did the CEO manage to pull off such an innovative presentation?,Did you see that physicist's explanation of quantum mechanics at the conference?,Even Michael was impressed.,high
+no there will be plenty of others,will I ever find the one?,Do you know any good Italian restaurants in town?,No there will be plenty of others.,high
+what is the purpose of this,I'm feeling anxious about my upcoming exam.,I've found an old map in the attic,What is the purpose of this?,high
+no can do,can you meet me at the office tomorrow?,Can you bring the blue folder from the office safe?,No can do.,high
+nice weather for it,I'm loving the sunshine today,Let's go on a hot air balloon ride today.,Nice weather for it.,high
+i think those are the right dates,When are the Johnson's anniversary and birthday parties scheduled?,I checked the calendar and found possible dates for the meeting. How does the 15th and 17th of next month work for you?,I think those are the right dates.,high
+does friday at 10 work for you,Can we schedule our meeting for next week?,I'd like to schedule a meeting next week.,Does Friday at 10 work for you?,high
+thai sounds good,Are you up for trying some street food tonight?,Shall we have Thai food for dinner?,Thai sounds good.,high
+do you want to fax it to my hotel,Can you receive attachments on your mobile?,I found some important documents in your email,Do you want to fax it to my hotel?,high
+see you later,Can we meet up later today?,"I'll bring the potatoes for dinner, what should I also get from the store?",See you later.,high
+see you later,Can we meet up later today?,"I'll bring the potatoes for dinner, what should I also get from the store?",See you later.,high
+did you differ from me,did we really attend that party last night?,I believe we have contrasting opinions on this matter.,Did you differ from me?,high
+hang in there guys,will we make it to the deadline?,The market has experienced a significant downturn today.,Hang in there guys.,high
+works for me,can you hear me now?,Do you prefer coffee or tea for your morning beverage?,Works for me.,high
+thanks  thats what i was hoping it was,Is the concert tonight at 7pm?,Is the red mark on your arm a mole or a bruise?,Thanks - that's what I was hoping it was.,low
+just in case we havent invited any of them,Are you planning to invite any colleagues from the marketing department?,Do you think we should send out formal invitations for the event?,Just in case we haven't invited any of them.,high
+didnt get a commitment,can we reschedule our meeting for tomorrow?,Can we finalize the deal next week?,Didn't get a commitment.,high
+go ahead and notify,please notify me of any changes to the company policy,"I've found an important email from the HR department, what should I do?",Go ahead and notify.,high
+i am getting lots of questions,Can you confirm if I'm getting too many questions?,Have you received many emails today?,I am getting lots of questions.,high
+how did they get onto our floor,I just saw my neighbor's cat roaming around the office,I heard footsteps coming from the stairwell.,How did they get onto our floor?,high
+will that work,Can we meet at the park on Saturday?,I'd like to use lemon juice as a natural cleaner for my kitchen counters. What do you think?,Will that work?,high
+i will take a look at this today,can you review the sales report for last quarter?,Can you check if the company's financial reports from last quarter are ready?,I will take a look at this today.,high
+yes still need it  when are you back,"I'm still looking for the USB drive, did you bring it?",I forgot my phone at home and I need to make some important calls today.,Yes still need it - when are you back?,low
+on mahonia margining i spoke with mike garberding,Can you confirm the meeting with Mike Garberding?,Have you read the latest research on plant species in the Marginalia forest?,"On Mahonia margining, I spoke with Mike Garberding.",low
+will you come get me,I'm stuck on the side of the road with a flat tire,"I forgot my keys at home, can you bring them to me?",Will you come get me?,high
+i will conference in for thursdays customer service meeting,Can you join the Thursday customer service meeting?,Let's schedule the customer service meeting for next week.,I will conference in for Thursday's customer service meeting.,low
